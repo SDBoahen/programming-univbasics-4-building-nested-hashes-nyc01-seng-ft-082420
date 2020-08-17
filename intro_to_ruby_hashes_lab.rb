@@ -118,6 +118,7 @@ def
       {
         :mortgage_value => 400
       },
+      
       :shortline_railroad =>
       {
         :mortgage_value => 800
